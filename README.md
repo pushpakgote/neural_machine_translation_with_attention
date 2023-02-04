@@ -17,16 +17,10 @@ Built a Neural Machine Translation (NMT) model to translate human-readable dates
 
 <table>
 <td> 
-<img src="images/attn_model.png" style="width:500;height:500px;"> 
+<img src="images/attn_model.png" style="width:500;height:500px;"> <br>
 </td> 
 <td> 
-<img src="images/attn_mechanism.png" style="width:500;height:500px;"> 
+<img src="images/attn_mechanism.png" style="width:500;height:500px;"> <br>
 </td> 
 </table>
-<caption><center> ** Figure 1 **: Neural machine translation with attention</center></caption>
-
-<p float="left">
-  <img src="images/attn_model.png" style="width:500;height:500px;">
-  <img src="images/attn_mechanism.png" style="width:500;height:500px;"> 
-  
-</p>
+<caption><center> Figure : Neural machine translation with attention</center></caption>
