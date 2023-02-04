@@ -1,2 +1,2 @@
-# neural_machine_translation_with_attention
+# Neural Machine Translation
 Built a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25") using an attention model.
